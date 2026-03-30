@@ -1,6 +1,6 @@
 @echo off
 
-set PYTHON=
+set PYTHON=D:\tools\Python\Python310-11\python.exe
 set GIT=
 set VENV_DIR=
 set STABLE_DIFFUSION_REPO=https://github.com/w-e-w/stablediffusion.git
